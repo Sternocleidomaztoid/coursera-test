@@ -1,7 +1,7 @@
 *{box-sizing: border-box;}
 h1{text-align:center; margin:50px;}
 
-#comida{
+#food{
   text-align: center;
   border: 1px solid black;
   padding: 5px 5px;
@@ -9,15 +9,15 @@ h1{text-align:center; margin:50px;}
   font-weight: bold;
   font-size: 1.5em;}
 
-.eleccion1{background-color: #9966ff;}
-.eleccion2{background-color: #ffff99;}
-.eleccion3{background-color: #99ffe6;}
+.number1{background-color: #9966ff;}
+.number2{background-color: #ffff99;}
+.number3{background-color: #99ffe6;}
 
 body>div{
   border: 1px solid black;
   background: #00ff55;
   position: relative;}
-  
+
 body>div div{
   width: 120px;
   text-align:center;
